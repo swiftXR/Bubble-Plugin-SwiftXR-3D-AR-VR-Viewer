@@ -1,0 +1,42 @@
+{
+    "add_is_visible": true,
+    "can_fit_height": true,
+    "can_fit_width": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 400,
+        "width": 400
+    },
+    "display": "SwiftXR Viewer",
+    "fields": {
+        "AAD": {
+            "caption": "SwiftXR Published Project Link Information",
+            "editor": "Label",
+            "name": "swiftxr_published_project_link_information",
+            "rank": 0
+        },
+        "AAE": {
+            "caption": "Please visit https://swiftxr.io/hub to create a published project link for your 3D/AR/VR project using SwiftXR.",
+            "editor": "Label",
+            "name": "generate_link",
+            "rank": 1
+        },
+        "AAF": {
+            "caption": "Published Project Link",
+            "default_val": "https://swiftxr-default.swiftxr.app/",
+            "doc": "After generation of link, kindly input your published project link.",
+            "editor": "StaticText",
+            "name": "swiftxr_published_project_link",
+            "rank": 2
+        }
+    },
+    "icon": "ion-cube",
+    "property_applications": {
+        "Background": false,
+        "Border": true,
+        "BoxShadow": true,
+        "MinWidth": true,
+        "Padding": true,
+        "resizable": true
+    }
+}

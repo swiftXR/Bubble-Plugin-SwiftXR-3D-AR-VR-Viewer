@@ -1,0 +1,16 @@
+{
+    "categories": {
+        "0": "media",
+        "1": "blog",
+        "2": "mobile",
+        "3": "ecommerce",
+        "4": "productivity"
+    },
+    "demo_page": "https://swiftxr-test-4.bubbleapps.io/version-test",
+    "description": "SwiftXR (3D/AR/VR) Viewer Overview\n\nEnhance your website's user experience by embedding 3D/AR/VR views. Our app allows for effortless integration of 3D, AR, and VR product views to create an immersive browsing experience. Our platform ensures smooth performance by optimizing and compressing your files.\n\n\nFeatures:\n\n- 3D, Augmented and Virtual Reality view of your product\n\n- Automatic 3D file compression and optimisation: worry less about file sizes\n\n- 3D file converter: convert .FBX, .OBJ, .STL to .GLB\n\n- Generate 3D Artworks from 2D Images\n\n- Generate 3D Avatars\n\n\n\nDISCLAIMER: This software is a plugin that allows you to embed content created with the SwiftXR platform in your website. Please note that the SwiftXR platform may require payment to publish and access certain content. This plugin is provided under the MIT license, which allows you to use, modify, and distribute it freely, but does not extend to the content created with the SwiftXR platform. Please make sure that you have the necessary rights and permissions to use and distribute any content you embed with this plugin. The authors or copyright holders are not responsible for any legal issues that may arise from the use of this plugin or the content it embeds.\n",
+    "image": "//s3.amazonaws.com/appforest_uf/f1678474762809x628169023448110300/SwiftXR%20Icon.jpg",
+    "license": "open_source",
+    "link": "https://docs.google.com/forms/d/e/1FAIpQLScTTKgUz6rKzBSJIEf9tYPitk1D_i0Tcc5pZlIg0c_U-IOmQw/viewform?usp=send_form",
+    "name": "SwiftXR ( 3D AR VR ) Viewer",
+    "plugin_instructions": "Follow these steps to create and publish your 3D/AR/VR project using SwiftXR or watch this tutorial: https://youtu.be/Y2Iita1j0hs\n\n- Visit https://swiftxr.io/hub\n\n- Create your project and publish it on the SwiftXR platform\n\n- Add the SwiftXR Viewer plugin to your workspace\n\n-Open the properties editor\n\n- Find the input labelled \"published project link\" in the properties editor\n\n- Copy and paste your published project link into this input\n\nBy completing these steps, you'll be able to seamlessly integrate your SwiftXR project into your website or application."
+}
